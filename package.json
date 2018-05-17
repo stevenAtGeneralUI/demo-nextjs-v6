@@ -8,7 +8,7 @@
   },
   "pre-commit": [
     "tslint"
-  ],  
+  ],
   "scripts": {
     "preinstall": "rm -rf node_modules/",
     "postinstall": "npm run test",
