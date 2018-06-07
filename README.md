@@ -48,6 +48,12 @@ To get started with [NextJS v6](https://nextjs.org), all you need to do is clone
     $ cd demo-nextjs-v6
     $ npm install
 
+If you are developing on either macOS or Linux, you can move on to "Start your local development server."
+
+If you are developing on Windows, I would encourage you to use the `nextjs-for-windows-powershell-development` branch as your starting point. [@victorprocure](https://github.com/victorprocure) made a great contribution in [Cross Development Build #32](https://github.com/TheRobBrennan/demo-nextjs-v6/pull/32) - which makes this starter project super friendly for people developing on Windows machines:
+
+    $ git checkout nextjs-for-windows-powershell-development
+
 ## Start your local development server
 Once you have cloned the repo and installed the required dependencies, you can start NextJS by running:
 
